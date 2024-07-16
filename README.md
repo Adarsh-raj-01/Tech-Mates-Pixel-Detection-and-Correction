@@ -10,7 +10,8 @@ Load the following libraries before running the code:
 
 References:
 1. For datasets(Pixelated) : https://huggingface.co/datasets/Kalva014/Pixelated_Images
-2. For Non-Pixelated images:Kaggle.com
-                           :Pexels.com
-3. Pre-Trained Real-ESRGAN Model: https://github.com/sberbank-ai/Real-ESRGAN.git 
+2. For Non-Pixelated images:
+   a)Kaggle.com
+   b)Pexels.com                        
+4. Pre-Trained Real-ESRGAN Model: https://github.com/sberbank-ai/Real-ESRGAN.git 
    
